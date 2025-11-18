@@ -1,5 +1,5 @@
 ---
-title: "OTRO DIA DE FRIO INTENSO"
+title: "Otro día mas de frío intenso"
 date: 2025-11-18
 ---
 
